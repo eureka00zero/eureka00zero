@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Basic info:
+
+:bowtie:I'm Chang Wang, nickname yuyan, chinese name 王畅.
+😄Front-end development engineer at Beijing.
+😆Email: 475032801@qq.com
+Skills:
+
+🌟Good - HTML,CSS,JS React,Vue 
+⭐Medium - Frontend Engineering, Performance Optimization
+✨Little - Node
